@@ -11,3 +11,7 @@
 * Product 4
    * Description
    * Price
+
+   <!-- Discount Details -->
+   * Description
+   * Price
